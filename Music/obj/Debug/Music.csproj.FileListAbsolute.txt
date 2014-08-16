@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\obj\Debug\Music.Form1.resources
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\obj\Debug\Music.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\bin\Debug\Music.exe.config
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\bin\Debug\Music.exe
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\bin\Debug\Music.pdb
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\obj\Debug\Music.exe
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\obj\Debug\Music.pdb
+C:\Users\Lucas\Documents\Summer\Projects\Music\Music\obj\Debug\Music.csprojResolveAssemblyReference.cache
